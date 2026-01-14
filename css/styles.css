@@ -220,6 +220,7 @@ img {
 .section-hero {
   max-width: 1440px;
   padding: 188px 0;
+  margin: 0 auto;
   background-color: #2e2f42;
   background-image: linear-gradient(
       rgba(46, 47, 66, 0.7),
